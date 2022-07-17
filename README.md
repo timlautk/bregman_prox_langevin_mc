@@ -1,5 +1,5 @@
-# bregman_prox_langevin_mc
-Implementation of Bregman--Moreau Unadjusted Mirror Langevin Algorithm (BMUMLA) in *Bregman Proximal Langevin Monte Carlo via Bregman--Moreau Envelopes* (Lau and Liu, 2022) published at ICML 2022. 
+# Code for Bregman Proximal Langevin Monte Carlo via Bregman--Moreau Envelopes
+Implementation of Bregman--Moreau Unadjusted Mirror Langevin Algorithm (BMUMLA) in *Bregman Proximal Langevin Monte Carlo via Bregman--Moreau Envelopes* (Lau and Liu, 2022), published at ICML 2022. 
 
 ```notebook/sampling_anisotropic_Laplace_bmumla.ipynb```: sampling from an anisotropic Laplace distribution
 
